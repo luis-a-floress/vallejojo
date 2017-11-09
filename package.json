@@ -9,6 +9,8 @@
   "author": "luis-f-s",
   "license": "MIT",
   "dependencies": {
-    "three-orbit-controls": "^82.1.0"
+    "canvas-testbed": "1.0.4",
+    "three": "0.88.0",
+    "three-orbit-controls": "82.1.0"
   }
 }
