@@ -1,0 +1,11 @@
+{
+  "name": "threejs",
+  "description": "",
+  "main": "index.html",
+  "authors": [
+    "luis-f"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true
+}
